@@ -1,0 +1,12 @@
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Depool\Documents\First2d\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Depool\Documents\First2d\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Depool\Documents\First2d\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Depool\Documents\First2d\obj\Debug\Assembly-CSharp-firstpass.pdb
